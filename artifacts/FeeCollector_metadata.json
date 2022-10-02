@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Smart_Contract_Development/FeeCollector.sol": "FeeCollector"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Smart_Contract_Development/FeeCollector.sol": {
+			"keccak256": "0x55f1ba46c72a47b83a0644bf1eff8a60f43741d77bb16b37cf9e9e2898302001",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://197a0a98c1412f7c8ffb88c7883cea2440f55f5e88626aadf1d5aaab34d3c9e0",
+				"dweb:/ipfs/QmarojsG9d8uZ3jT154iBNu9gfqApr7CtJMf7PeTBWXeXk"
+			]
+		}
+	},
+	"version": 1
+}
